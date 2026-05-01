@@ -1,1 +1,82 @@
-init
+<h1>嗨，我是蔡昌霖 Reymer 👋</h1>
+
+資訊工程本科，目前在允和科技擔任前端工程師，專業年資 2.4 年。
+韌體、硬體、軟體都有接觸，喜歡把想法從電路板一路做到畫面上。
+
+---
+
+## 🏢 工作經歷
+
+- **允和科技股份有限公司** — 前端工程師
+- **工研院電光所** — 實習軟體工程師
+
+---
+
+## 🎯 專長領域
+
+- **程式語言**：C#、JavaScript、Node.js、Python、.NET Framework、ASP.NET Web API
+- **前端與應用**：Unity、WPF、WebRTC、WebSocket、HTML、CSS
+- **物聯網與嵌入式**：Arduino、ESP32、MQTT、Socket、IoT 訊息轉發與設備整合
+- **影音串流**：RTMP、RTSP、WebRTC、RTP
+- **開發工具**：Git、GitHub、ngrok、Pagekite
+- **3D 建模與列印**：3D 列印技術、123D Design
+- **數位孿生城市**：GIS 生成技術、道路生成（國道、一般道路、快速道路）
+
+---
+
+## 💼 參與專案計畫
+
+- 🔥 5G 場域計畫 — 智慧防災教育整合建置案（南投消防訓練中心）
+- 🔥 5G 場域計畫 — 智慧防災教育整合維運案
+- 🎥 影像整合平台（南投消防訓練中心）
+- 🖥️ 圓台（南投消防訓練中心）
+- 🤿 水下即時影像沉浸式整合系統建置案（屏東海生館）
+- 📡 IoT 訊息轉發伺服器
+- 🥽 VR 端子訓練
+
+---
+
+## 💻 Tech Stack
+
+**韌體 / 硬體**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**軟體 / 開發**
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+## 📦 開源專案
+
+### EdgeLink Server
+輕量 IoT 協議橋接伺服器，讓 ESP32 / Arduino 資料直接傳到 Unity。
+
+- TCP / UDP 多 Port 管理
+- 自訂 Mask 協議解析
+- 瀏覽器 Web 管理介面
+- Unity UPM SDK，支援設備斷線偵測
+
+[![EdgeLink](https://img.shields.io/badge/EdgeLink--Server-181717?style=for-the-badge&logo=github)](https://github.com/Reymer/EdgeLink-Server)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reymer&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reymer&layout=compact&theme=dark&hide_border=true" />
+</p>
