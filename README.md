@@ -56,11 +56,3 @@
 
 [![EdgeLink](https://img.shields.io/badge/EdgeLink--Server-181717?style=for-the-badge&logo=github)](https://github.com/Reymer/EdgeLink-Server)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reymer&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reymer&layout=compact&theme=dark&hide_border=true" />
-</p>
