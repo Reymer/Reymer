@@ -14,7 +14,7 @@
 
 ## 🎯 專長領域
 
-- **程式語言**：C#、JavaScript、Node.js、Python、.NET Framework、ASP.NET Web API
+- **程式語言**：C++、C#、Go、JavaScript、Node.js、Python、.NET Framework、ASP.NET Web API
 - **前端與應用**：Unity、WPF、WebRTC、WebSocket、HTML、CSS
 - **物聯網與嵌入式**：Arduino、ESP32、MQTT、Socket、IoT 訊息轉發與設備整合
 - **影音串流**：RTMP、RTSP、WebRTC、RTP
@@ -47,8 +47,10 @@
 
 **軟體 / 開發**
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
