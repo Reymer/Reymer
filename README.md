@@ -12,18 +12,6 @@
 
 ---
 
-## 🎯 專長領域
-
-- **程式語言**：C++、C#、Go、JavaScript、Node.js、Python、.NET Framework、ASP.NET Web API
-- **前端與應用**：Unity、WPF、WebRTC、WebSocket、HTML、CSS
-- **物聯網與嵌入式**：Arduino、ESP32、MQTT、Socket、IoT 訊息轉發與設備整合
-- **影音串流**：RTMP、RTSP、WebRTC、RTP
-- **開發工具**：Git、GitHub、ngrok、Pagekite
-- **3D 建模與列印**：3D 列印技術、123D Design
-- **數位孿生城市**：GIS 生成技術、道路生成（國道、一般道路、快速道路）
-
----
-
 ## 💼 參與專案計畫
 
 - 🔥 5G 場域計畫 — 智慧防災教育整合建置案（南投消防訓練中心）
